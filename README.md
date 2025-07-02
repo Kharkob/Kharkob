@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-My Name is Kharkob, But my real name is Seth Bouldin!         
+My Name is Kharkob, But my real name is Seth Bouldin!  
+
 <i>Graduated</i> From Northwest Arkansas Community College!
 
 <i>Certified</i> Full-Stack Developer
