@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+My Name is Kharkob! But my real name is Seth Bouldin!
 <!--
 **Kharkob/Kharkob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
