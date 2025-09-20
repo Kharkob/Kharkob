@@ -1,13 +1,9 @@
 ## Hi there 👋
 
 
-My Name is Kharkob, But my real name is Seth Bouldin!  
-My Personal Email is ussb987@gmail.com
+My Name is Kharkob, 
 
-<i>Graduated</i> From Northwest Arkansas Community College!
-
-https://tools.promineotech.com/student_certs/1932b599_ussb987@gmail.com.pdf
-https://tools.promineotech.com/student_certs/fd3ece91_ussb987.pdf
+<i>Graduated</i> 
 
 <i>Certified</i> Full-Stack Developer
 <!--
